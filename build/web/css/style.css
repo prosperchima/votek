@@ -1,0 +1,69 @@
+.image1{
+    height: 350px;
+    width: 80;
+    margin-left: -200px;
+  }
+  .ugomma{
+    font-size: 30px;
+  }
+  .top-margin{
+      margin-top: 30px;
+  }
+  
+  #form1{
+    display: block;
+}
+  #form2{
+    display: none;
+}
+#form3{
+  display: none;
+}
+.vote-btn{
+background: #17A2B8;    
+}
+.vote-btn:hover{
+    background: green;
+}
+.vote-btn:disabled{
+    background: red !important;
+}
+
+.vote-btn2{
+background: #17A2B8;    
+}
+.vote-btn2:hover{
+    background: green;
+}
+.vote-btn2:disabled{
+    background: red !important;
+}
+.delete-btn{
+    background: #17A2B8; 
+    color: red;
+}
+.delete-btn:hover{
+    background: red;
+     color: #000;
+}
+
+.suspend-btn{
+    background: #17A2B8; 
+    color: yellow;
+}
+.suspend-btn:hover{
+    background: yellow ;
+     color: #000;
+}
+  @media (max-width: 576px) {
+    .image1{
+      display: none;
+    }
+    .ugomma{
+      font-size: 25px;
+    }
+    .con{
+       text-align: center;
+    }
+    
+  }

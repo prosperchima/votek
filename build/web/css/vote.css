@@ -1,0 +1,108 @@
+
+.part2{
+    margin-top: 100px;
+}
+.part2content{
+    text-align: center;
+   
+}
+.team{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:40px;
+    font-weight: 400;
+    color:#D80204;
+    text-shadow: 0 0 3px #FF0000;
+}
+.team2{
+    font-size: 15px;
+    color: rgb(9, 4, 32);
+}
+.team1{
+    font-size: 20px;
+    color: rgb(9, 4, 32);
+    text-shadow: 0 0 3px #D80204;
+    text-align:center;
+
+}
+.feat{
+    color:#D80204;
+     text-shadow: 0 0 3px #D80204;
+     text-align: center;
+}
+.feat2{
+    font-family:'Times New Roman', Times, serif; 
+    font-size:30px;
+    font-weight: 400;
+    color: rgb(9, 4, 32);
+    text-align: center;
+}
+.cardpix{
+    height:100px;
+    width: 100px !important;
+    cursor: pointer;
+/*    -webkit-transition: width 4s, height 4s;  For Safari 3.1 to 6.0 */
+/*    transition: width 4s, height 4s;*/
+}
+
+/*.card-img-top:hover {
+    width: 160px !important;
+    height: 160px;
+}*/
+/* .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: black !important;
+    background-color: white !important;
+    border: 0.5px solid gray;
+    border-radius: 0 !important;
+} */
+.height-5{
+    height: 4px !important;
+}
+.progress-bar{
+    background-color:#D80204!important;
+}
+.girl-background{
+    background-image: url(../images/excess16.png);
+    background-size: 100% 100%;
+    border-radius: 5px;
+}
+
+#gallery{
+    background-image: url(../images/bck1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 234.89;
+}
+.card-folio{
+    height: 150px !important;
+    width: 150px !important; 
+    align-self: center !important;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.card-img-top{
+	height: 100px;
+	width: 100px;
+}
+.card1{
+    width: 100%;
+    height: auto;
+   
+}
+.x-plus{
+    position: relative;
+    right: 30px;
+    bottom:41px;
+}
+.design{
+    box-shadow: 2px 1px 3px 6px  whitesmoke !important;
+    border: 1px solid lightcyan !important;
+    transition: .5s;
+    /* border: 1px solid red !important; */
+/* }
+.design:hover{
+    position: relative;
+    background: rgb(223, 146, 146);
+    top: 20px;
+    bottom: 25px; */
+}
